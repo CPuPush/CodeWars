@@ -1,2 +1,2 @@
 # CodeWars
-only javascript test
+Only javascript test
