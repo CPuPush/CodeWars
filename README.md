@@ -1,0 +1,2 @@
+# CodeWars
+only javascript test
