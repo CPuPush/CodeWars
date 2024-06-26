@@ -1,6 +1,5 @@
 # Code Wars
-for fun!!
+FOR FUN
 
-## My level:
-
+## My level
 ![image](https://www.codewars.com/users/CPuPush/badges/large)
