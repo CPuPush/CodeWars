@@ -1,11 +1,6 @@
 # Code Wars
-Repo pengelesaian algoritma untuk bahasa Java dan JavaScript
+for fun!!
 
-## Isi
-Terdapat 2 folder penyelesaian koding
-- java
-- nodejs
-
-My Codewars Badge:
+## My level:
 
 ![image](https://www.codewars.com/users/CPuPush/badges/large)
