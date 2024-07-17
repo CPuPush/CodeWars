@@ -1,4 +1,4 @@
-package SixKyu;
+package codewars.SixKyu;
 
 import java.util.Stack;
 

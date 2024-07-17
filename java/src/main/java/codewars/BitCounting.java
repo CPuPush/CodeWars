@@ -1,3 +1,5 @@
+package codewars;
+
 import static java.lang.Integer.bitCount;
 
 public class BitCounting {

@@ -1,3 +1,5 @@
+package codewars;
+
 public class FindPerfectSquare {
     public static void main(String[] args) {
         System.out.println(perfectSquare(676));

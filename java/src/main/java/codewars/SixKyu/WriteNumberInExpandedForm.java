@@ -1,4 +1,4 @@
-package SixKyu;
+package codewars.SixKyu;
 
 public class WriteNumberInExpandedForm {
     public static void main(String[] args) {

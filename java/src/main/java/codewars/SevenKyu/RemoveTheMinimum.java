@@ -1,10 +1,8 @@
-package SevenKyu;
+package codewars.SevenKyu;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
-import static java.util.stream.IntStream.range;
 
 public class RemoveTheMinimum {
     public static void main(String[] args) {
